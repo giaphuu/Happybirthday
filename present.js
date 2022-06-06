@@ -1,7 +1,7 @@
 
 var to = 'Emiu:3!';
 var gift_url = 'https://www.facebook.com/trinhh.hoangg.1006';
-var gift_image_url = 'Test.jpg';
+var gift_image_url = 'Test.png';
 
 
 
